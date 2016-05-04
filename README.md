@@ -2,4 +2,4 @@
 
 A website for Andela class 7 fellows
 
-[Visit Site](http://andela-abankole.github.io/cohort-www)
+[Visit Site](http://andela-toladele.github.io/cohort-www)
